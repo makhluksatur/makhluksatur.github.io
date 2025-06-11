@@ -1,5 +1,5 @@
 ---
-title: "Ngobrolin Algoritma: Pilih Aktivitas Seru & Isi Tas Sampai Penuh!"
+title: "Fractional Knapsack"
 date: 2025-06-11
 categories: [Algoritma, Programming, Tutorial]
 tags: [greedy-algorithm, activity-selection, knapsack-problem, beginner-friendly]
@@ -7,8 +7,6 @@ author: "Your Name"
 description: "Penjelasan santai dan mudah dipahami tentang Activity Selection Problem dan Fractional Knapsack Problem menggunakan algoritma greedy."
 layout: post
 ---
-
-# Ngobrolin Algoritma: Pilih Aktivitas Seru & Isi Tas Sampai Penuh!
 
 Halo Sobat Ngoding! 👋 Pernah ngerasa jadwal padat banget sampai bingung mau ngerjain yang mana dulu? Atau, pernah belanja kebutuhan dapur tapi tas belanjaan cuma muat segitu-gitu aja, padahal banyak barang yang pengen dibeli? 
 
